@@ -11,6 +11,8 @@ Kelas Jaringan Komputer E - Kelompok E12
 
 ## VLSM (Variable Length Subnet Masking)
 
+| Subnet | Alias | Jumlah IP | Netmask |
+| --- | --- | --- | --- |
 | A1	| Guideau - The Minister	| 1001	| /22 |
 | A2	| The Minister - The Daundless	| 2	| /30 |
 | A3	| The Daundless - Phanora - Johan	| 251	| /24 |
