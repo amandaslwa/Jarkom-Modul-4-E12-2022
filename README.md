@@ -14,8 +14,8 @@ Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melabel netmask
 | Subnet | Alias | Jumlah IP | Netmask |
 | --- | --- | --- | --- |
 | A1	| Guideau - The Minister	| 1001	| /22 |
-| A2	| The Minister - The Daundless	| 2	| /30 |
-| A3	| The Daundless - Phanora - Johan	| 251	| /24 |
+| A2	| The Minister - The Dauntless	| 2	| /30 |
+| A3	| The Dauntless - Phanora - Johan	| 251	| /24 |
 | A4	| The Minister - The Order	| 2	| /30 |
 | A5	| The Order - Ashaf	| 51	| /26 |
 | A6	| The Order - The Resonance	| 2	| /30 |
@@ -50,8 +50,8 @@ Pembagian IP tiap node disesuaikan dengan pembagian subnet berdasarkan pohon di 
 | A1 | The Minister | 192.198.12.1 | 255.255.252.0 | /22 |
 | A1 | Guideau | 192.198.12.2 | 255.255.252.0 | |
 | A2 | The Minister | 192.198.0.5 | 255.255.255.252 | /30 |
-| A2 | The Daundless | 192.198.0.6 | 255.255.255.252 | |
-| A3 | The Daundless | 192.198.1.1 | 255.255.255.0 | /24 |
+| A2 | The Dauntless | 192.198.0.6 | 255.255.255.252 | |
+| A3 | The Dauntless | 192.198.1.1 | 255.255.255.0 | /24 |
 | A3 | Phanora | 192.198.1.2 | 255.255.255.0 | |
 | A3 | Johan | 192.198.1.3 | 255.255.255.0 | |
 | A4 | The Minister | 192.198.0.9 | 255.255.255.252 | /30 |
@@ -107,27 +107,31 @@ Karena default hanya memiliki 2 port ethernet, maka port dapat ditambah pada tab
 
 Berikut adalah konfigurasi yang telah diset pada masing-masing router.
 - The Resonance
-<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084272-2aec5f4f-d9f8-48d4-bff1-0a9102eb4561.png">
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204092928-40d1a6b0-c385-4de9-8601-02bdb4d5add4.png">
 
-<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084280-283e4252-a9e1-42bf-9d30-020e5e0ab2cb.png">
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204092946-29034362-c61a-4e76-974d-6746004a16d6.png">
 
-<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084294-8f1b514a-4222-451f-898f-3f763700670c.png">
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204093064-2a8435f0-2057-4f9e-85e4-2c03a5405cf6.png">
 
-<img width="249" alt="image" src="https://user-images.githubusercontent.com/90702710/204084300-a0e7b70e-d53f-4685-a0d4-38f7f93d8c65.png">
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204093073-308f0ecf-4b3c-4867-a83c-723e0312f0ff.png">
+
+<img width="249" alt="image" src="https://user-images.githubusercontent.com/90702710/204093079-016b7243-12a5-47b2-905b-4261ff855f66.png">
 
 - The Order
-<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084368-793c1f11-3204-4f7b-ac8d-05344a8ef03f.png">
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204093118-5360f67b-a348-4142-b397-c78e58b7874e.png">
+
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204093130-631cc6ae-79ee-4d01-acac-8b7b390327ca.png">
 
 - The Minister
 <img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204084410-c26b1e71-2a9f-4143-aae5-2980a6cd7704.png">
 
-- The Daundless
+- The Dauntless
 <img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204084422-0229838c-6e91-4a64-bdfb-e1b7a2a1879d.png">
 
 - The Instrument
-<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204084484-e054da9c-4632-41d7-a0dc-f1afcd5a9f74.png">
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204093151-770ea23e-785b-4dda-b42b-1fa96985b996.png">
 
-<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204084498-635acdc5-5b63-4b21-9321-b811ed25ca9c.png">
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204093157-538575e3-3d9f-48e8-a417-d7a5d0ca86fd.png">
 
 - The Profound
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/90702710/204084522-13a2054e-7ecc-474d-b864-bbb3ff14304f.png">
