@@ -93,7 +93,7 @@ Contoh pada The Resonance, IP dan Subnet Mask ditambahkan sesuai dengan pembagia
 
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/90702710/204084042-b1ae7427-6a8d-4bfb-b15f-bab88d0aa84a.png">
 
-Pada server & Client ditambahkan juga gateway yang mengarah ke router terdekat.
+Pada server & client ditambahkan juga gateway yang mengarah ke router terdekat.
 
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/90702710/204084067-b58c53b4-e7b5-44ce-b3ec-55157159f6ac.png">
 
