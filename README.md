@@ -116,10 +116,32 @@ Berikut adalah konfigurasi yang telah diset pada masing-masing router.
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/90702710/204084300-a0e7b70e-d53f-4685-a0d4-38f7f93d8c65.png">
 
 - The Order
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084368-793c1f11-3204-4f7b-ac8d-05344a8ef03f.png">
+
 - The Minister
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204084410-c26b1e71-2a9f-4143-aae5-2980a6cd7704.png">
+
 - The Daundless
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204084422-0229838c-6e91-4a64-bdfb-e1b7a2a1879d.png">
+
 - The Instrument
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204084484-e054da9c-4632-41d7-a0dc-f1afcd5a9f74.png">
+
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204084498-635acdc5-5b63-4b21-9321-b811ed25ca9c.png">
+
 - The Profound
+<img width="249" alt="image" src="https://user-images.githubusercontent.com/90702710/204084522-13a2054e-7ecc-474d-b864-bbb3ff14304f.png">
+
 - The Firefist
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084537-87698878-4b44-4b59-b32c-bf8aa447662b.png">
+
 - The Queen
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084549-8c9c38f6-a765-47f4-a620-68e0a16eee65.png">
+
 - The Magical
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084565-1e81ff0d-50b6-4b88-874b-7ff34039799b.png">
+
+### Testing
+
+
+## CIDR (Classless Inter-Domain Routing)
