@@ -147,7 +147,7 @@ Berikut adalah konfigurasi yang telah diset pada masing-masing router.
 
 ### Testing
 
-
+Untuk video testing pada CPT dapat dilihat pada drive: https://drive.google.com/file/d/1cPCdrfRzm2IEJ6wk8gXkMSUUpe1OKVcx/view?usp=share_link
 
 ## CIDR (Classless Inter-Domain Routing)
 Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melabel netmask berdasarkan jumlah IP yang dibutuhkan.
