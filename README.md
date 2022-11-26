@@ -199,6 +199,3 @@ Contoh konfigurasi pada sebuah subnet (A14) dengan mengikuti pembagian di tabel 
 ![image](https://user-images.githubusercontent.com/82187488/204094558-6b12c6d1-7bcf-4bb1-95fa-a72abb201d5d.png)
 
 ![image](https://user-images.githubusercontent.com/82187488/204094582-3cc54047-0e4b-411b-bb49-fc5591b23eb2.png)
-
-## Kendala
-- Belum melakukan routing pada GNS3 karena lupa memback-up project
