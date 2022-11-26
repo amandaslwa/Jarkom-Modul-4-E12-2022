@@ -146,3 +146,35 @@ Berikut adalah konfigurasi yang telah diset pada masing-masing router.
 
 
 ## CIDR (Classless Inter-Domain Routing)
+Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melabel netmask berdasarkan jumlah IP yang dibutuhkan.
+
+"gambar 0"
+
+Menggabungkan dua subnet yang terjauh dari NAT. Pada kasus ini, terdapat empat gabungan subnet. Netmask dari subnet yang baru merupakan satu tingkat dari netmask terbesar dari dua subnet yang digabungkan. 
+
+"gambar 1"
+
+Cara tersebut dilakukan hingga terbentuk satu subnet besar.
+
+"gambar 2-9"
+
+Setelah itu, membuat pohon IP untuk membagi IP kepada subnet-subnet yang dibentuk di awal.
+
+"gambar tree"
+
+Terdapat dua macam kasus dalam menentukan IP:
+
+"gambar tree-1"
+
+Pada kasus tersebut, IP dari node di kiri merupakan total IP dari node di kanan ditambah satu.
+
+"gambar tree-2"
+
+Pada kasus tersebut, IP dari node di kanan merupakan total dari IP dari node di kiri ditambah satu.
+
+Jika tree sudah selesai dibuat, NID dari setiap subnet dapat ditentukan. Setelah itu, tabel IP dapat dibentuk.
+
+"tabel IP"
+
+Setelah tabel IP dibuat, setiap node pada GNS3 diberikan IP sesuai dengan yang telah ditentukan di tabel IP.
+
