@@ -115,7 +115,7 @@ Berikut adalah konfigurasi yang telah diset pada masing-masing router.
 
 <img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204093073-308f0ecf-4b3c-4867-a83c-723e0312f0ff.png">
 
-<img width="249" alt="image" src="https://user-images.githubusercontent.com/90702710/204093079-016b7243-12a5-47b2-905b-4261ff855f66.png">
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/90702710/204093606-29798699-a68a-4dea-af56-8a6b0940e472.png">
 
 - The Order
 <img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204093118-5360f67b-a348-4142-b397-c78e58b7874e.png">
