@@ -86,3 +86,40 @@ Pembagian IP tiap node disesuaikan dengan pembagian subnet berdasarkan pohon di 
 | A17 | The Beast | 192.198.0.34 | 255.255.255.252 | |
 | A18 | The Queen | 192.198.0.37 | 255.255.255.252 | /30 |
 | A18 | The Witch | 192.198.0.38 | 255.255.255.252 | |
+
+### Assignment
+
+Contoh pada The Resonance, IP dan Subnet Mask ditambahkan sesuai dengan pembagian yang telah dilakukan, dengan IP ditambah 1 dari subnetnya. Hal ini diassign untuk semua router, client dan server.
+
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/90702710/204084042-b1ae7427-6a8d-4bfb-b15f-bab88d0aa84a.png">
+
+Pada server & Client ditambahkan juga gateway yang mengarah ke router terdekat.
+
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/90702710/204084067-b58c53b4-e7b5-44ce-b3ec-55157159f6ac.png">
+
+### Menambah Ethernet
+
+Karena default hanya memiliki 2 port ethernet, maka port dapat ditambah pada tab physical sesuai dengan jumlah yang dibutuhkan. Misal pada The Instrument, dibutuhkan 2 port tambahan karena total cabang yang terkoneksi ada 4.
+
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/90702710/204084122-46805685-01d3-4d23-9552-100870a06913.png">
+
+### Routing
+
+Berikut adalah konfigurasi yang telah diset pada masing-masing router.
+- The Resonance
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084272-2aec5f4f-d9f8-48d4-bff1-0a9102eb4561.png">
+
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084280-283e4252-a9e1-42bf-9d30-020e5e0ab2cb.png">
+
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/90702710/204084294-8f1b514a-4222-451f-898f-3f763700670c.png">
+
+<img width="249" alt="image" src="https://user-images.githubusercontent.com/90702710/204084300-a0e7b70e-d53f-4685-a0d4-38f7f93d8c65.png">
+
+- The Order
+- The Minister
+- The Daundless
+- The Instrument
+- The Profound
+- The Firefist
+- The Queen
+- The Magical
