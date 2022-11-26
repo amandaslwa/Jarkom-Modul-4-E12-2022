@@ -152,33 +152,54 @@ Untuk video testing pada CPT dapat dilihat pada drive: https://drive.google.com/
 ## CIDR (Classless Inter-Domain Routing)
 Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan melabel netmask berdasarkan jumlah IP yang dibutuhkan.
 
-"gambar 0"
+![image](https://user-images.githubusercontent.com/82187488/204094033-3096b821-9c29-4dd1-8495-2b700808cbcb.png)
 
 Menggabungkan dua subnet yang terjauh dari NAT. Pada kasus ini, terdapat empat gabungan subnet. Netmask dari subnet yang baru merupakan satu tingkat dari netmask terbesar dari dua subnet yang digabungkan. 
 
-"gambar 1"
+![image](https://user-images.githubusercontent.com/82187488/204094065-4e70e431-e4fb-40db-a025-fb7b90f8daaf.png)
 
 Cara tersebut dilakukan hingga terbentuk satu subnet besar.
 
-"gambar 2-9"
+![image](https://user-images.githubusercontent.com/82187488/204094080-867fdad3-d45e-4013-9ddf-afd9d4769feb.png)
+
+![image](https://user-images.githubusercontent.com/82187488/204094091-1e0ce2bb-8694-41b4-8247-1c9dc158ea4f.png)
+
+![image](https://user-images.githubusercontent.com/82187488/204094107-b22589ad-b7a7-4e0d-ada4-1c1d95fd1f15.png)
+
+![image](https://user-images.githubusercontent.com/82187488/204094126-40c47cfe-3ac8-413c-aa52-f74013c9e458.png)
+
+![image](https://user-images.githubusercontent.com/82187488/204094140-5cda7253-76b4-43f4-b396-d08450512053.png)
+
+![image](https://user-images.githubusercontent.com/82187488/204094154-7f8ec5a4-e110-4b7a-8ed1-6fc537411917.png)
+
+![image](https://user-images.githubusercontent.com/82187488/204094172-27c5cf4f-9f72-4d83-a3f1-2c74edbbbb57.png)
 
 Setelah itu, membuat pohon IP untuk membagi IP kepada subnet-subnet yang dibentuk di awal.
 
-"gambar tree"
+![image](https://user-images.githubusercontent.com/82187488/204094250-6a879e64-5a76-4c3a-9de2-c084c1b761ca.png)
 
 Terdapat dua macam kasus dalam menentukan IP:
 
-"gambar tree-1"
+![image](https://user-images.githubusercontent.com/82187488/204094310-6fb7e828-d55f-4a1a-bc35-b550e856ae32.png)
 
 Pada kasus tersebut, IP dari node di kiri merupakan total IP dari node di kanan ditambah satu.
 
-"gambar tree-2"
+![image](https://user-images.githubusercontent.com/82187488/204094323-b76d93fa-3c77-4598-9eb3-8becc288c6a7.png)
 
 Pada kasus tersebut, IP dari node di kanan merupakan total dari IP dari node di kiri ditambah satu.
 
 Jika tree sudah selesai dibuat, NID dari setiap subnet dapat ditentukan. Setelah itu, tabel IP dapat dibentuk.
 
-"tabel IP"
+![image](https://user-images.githubusercontent.com/82187488/204094420-e09d7a96-61ee-4da1-a916-177297f96cf2.png)
 
 Setelah tabel IP dibuat, setiap node pada GNS3 diberikan IP sesuai dengan yang telah ditentukan di tabel IP.
+
+Contoh konfigurasi pada sebuah subnet (A14) dengan mengikuti pembagian di tabel IP.
+
+![image](https://user-images.githubusercontent.com/82187488/204094558-6b12c6d1-7bcf-4bb1-95fa-a72abb201d5d.png)
+
+![image](https://user-images.githubusercontent.com/82187488/204094582-3cc54047-0e4b-411b-bb49-fc5591b23eb2.png)
+
+
+
 
