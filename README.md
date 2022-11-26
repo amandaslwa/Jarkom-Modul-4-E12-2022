@@ -176,7 +176,7 @@ Cara tersebut dilakukan hingga terbentuk satu subnet besar.
 
 Setelah itu, membuat pohon IP untuk membagi IP kepada subnet-subnet yang dibentuk di awal.
 
-![image](https://user-images.githubusercontent.com/82187488/204094250-6a879e64-5a76-4c3a-9de2-c084c1b761ca.png)
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/90702710/204095245-88ca69e6-2026-4a8b-8414-794aeeca3b7d.png">
 
 Terdapat dua macam kasus dalam menentukan IP:
 
